@@ -3,9 +3,10 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱Estudando Reactive e Javascript
+- 🌱Estudo TI atualmente na UNIVESP
 - 📫 Contate-me: Mariele.dos.santosm@gmail.com
 - 😄 Pronouns: Ela/ dela
+- Linguagens nas quais estou em processo de desenvolvimento Reactive e JavaScript!!
 
 
 <div align="center">
