@@ -6,12 +6,12 @@
 - 🌱Estudo TI atualmente na UNIVESP
 - 📫 Contate-me: Mariele.dos.santosm@gmail.com
 - 😄 Pronouns: Ela/ dela
-- Linguagens nas quais estou em processo de desenvolvimento Reactive e JavaScript!!
+- 📝 Linguagens nas quais estou em processo de desenvolvimento Reactive e JavaScript!!
 
 
 <div align="center">
-  <a href="https://github.com/Mariunivesp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariunivesp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Mari-sant">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mari-sant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
   
 <div style="display: inline_block"><br>
